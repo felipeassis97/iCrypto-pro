@@ -2,6 +2,10 @@
 
 iCrypto-pro is an iOS application that allows users to search and view cryptocurrency information using the CoinMarketCap API. The app provides users with real-time data, including current prices, market cap, and other essential metrics for various cryptocurrencies.
 
+
+## App Demo
+![App Demo](./screenshots/example.gif)
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
